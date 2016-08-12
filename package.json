@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "A simple body parsing function for node.js",
   "main": "parse-body.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mmckelvy/parse-body.git"
+  },
   "scripts": {
     "test": "node test/index | faucet",
     "dev-test": "node test/index"
