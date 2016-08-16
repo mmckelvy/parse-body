@@ -5,6 +5,8 @@ A simple body parsing function for node.js
 `npm install parse-body`
 
 ## Example
+    const parseBody = require('parse-body');
+
     parseBody(req, 1e6, function(err, body) {
       if (err) return console.log(err);
 
