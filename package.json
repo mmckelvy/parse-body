@@ -1,6 +1,6 @@
 {
   "name": "parse-body",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple body parsing function for node.js",
   "main": "parse-body.js",
   "repository": {
